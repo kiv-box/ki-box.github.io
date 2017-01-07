@@ -1,6 +1,5 @@
 ---
-title: This is my title
-description: test
+title: Index page
 ---
 
 - [Dep](/department/)

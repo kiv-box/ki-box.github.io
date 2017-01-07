@@ -3,4 +3,5 @@ title: This is my title
 description: test
 ---
 
-Here is my page.
+[Dep](/department/index.md)
+[Apache Kafka](/kafka/index.md)

@@ -2,8 +2,6 @@
 title: Department ideas
 ---
 
-{% for image in site.images %}
-     {% if image.extname == 'jpg' %}
-         <img src="{{ file.url }}" />
-     {% endif %}
+{% for page in site.department %}
+    <img src="{{ file.url }}" />
 {% endfor %}

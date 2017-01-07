@@ -2,5 +2,5 @@
 title: Index page
 ---
 
-- [Dep](/department/)
+- [Department Ideas](/department/)
 - [Apache Kafka](/kafka/)

@@ -2,5 +2,5 @@
 title: Department Ideas Index Page
 ---
 
-- [Development](/department/dep_development.md)
-- [Roles](/department/dep_roles.md)
+- [Development](/department/dep_development)
+- [Roles](/department/dep_roles)

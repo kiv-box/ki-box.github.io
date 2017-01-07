@@ -2,5 +2,5 @@
 title: Department Ideas Index Page
 ---
 
-- [Department ideas](/department/)
-- [Apache Kafka](/kafka/)
+- [Development](/department/dep_development.md)
+- [Roles](/department/dep_roles.md)
